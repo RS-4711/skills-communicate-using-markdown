@@ -20,3 +20,7 @@ And another one!
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] List item 1
+- [ ] Item, another item.
+- [ ] Item, a third.
